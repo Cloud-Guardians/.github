@@ -24,11 +24,11 @@
 ## 기술 스택 및 인프라 구조
 
 ## 팀원 소개
-| Frontend | Frontend & Backend | Backend | Backend |
-|---|---|---|---|
-| https://github.com/KANGJIYEON2 | https://github.com/yebrong | https://github.com/aprilnineteen |https://github.com/Jiihyun |
-| 강지연 | 나예빈 | 박주희 | 임지현 |
-
+|Frontend|Frontend & Backend|Backend|Backend|
+|:-:|:-:|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/127065529?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154613879?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154617066?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/120218763?v=4" width="150" height="150"/>|
+|강지연|나예빈|박주희|임지현|
+|[@KANGJIYEON2](https://github.com/KANGJIYEON2)|[@yebrong](https://github.com/yebrong)|[@aprilnineteen](https://github.com/aprilnineteen)|[@Jiihyun](https://github.com/Jiihyun)|
 
 
 
