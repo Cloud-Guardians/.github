@@ -1,12 +1,11 @@
-## Hi there 👋
+# 구르미 그린 일기
+---
+<div align="center">
+  
+![구르미 그린 일기](https://github.com/user-attachments/assets/1b292f65-899f-4c42-b78b-a023a78c39e1)
+![도사](https://github.com/user-attachments/assets/02d49660-3e8f-4f74-aff7-6fb80de7488a)
+</div>
 
-<!--
+## 프로젝트 소개
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 배포 주소
