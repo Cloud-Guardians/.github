@@ -26,7 +26,25 @@
 
 ## 주요 기능 소개
 
+#### 오늘의 기분을 다섯 가지 감정으로 표현해 보세요
+일기 작성 전 오늘의 감정을 수치로 나타내어 하루 동안의 기분을 정리해 보아요.
+
+#### 마음껏 일기를 작성해 보세요
+사용자가 쓴 일기는 기록되고, 원하는 경우 게시글로 공유할 수 있습니다.
+
+#### 오늘의 감정을 기록하면 감정을 분석해 줘요
+당일의 감정 분석과 더불어 음양오행에 기반한 내일의 운세도 함께 확인해 보세요.
+
+#### 게시글로 공유한 일기를 확인해 보세요
+서로 좋아요와 댓글을 달 수 있어, 여러분의 생각과 감정을 함께 나누며 소통할 수 있어요.
+
+#### 분석된 일기를 한곳에서 모아 볼 수 있어요
+주별 및 월별로 분석된 페이지에서 당시의 내 감정을 다시 헤아려 보아요.
+
 ## 기술 스택 및 인프라 구조
+
+### 기술 스택
+
 #### 🛠️ Collaboration
 ![Collaboration](https://github.com/user-attachments/assets/da4df5c5-eaaa-4945-903b-06202aa325c8)
 
@@ -44,6 +62,8 @@
 ![backend](https://github.com/user-attachments/assets/d6197808-6b3f-45a4-a0fc-cad12c8f4a43)
 
 
+### 인프라 구조
+
 ## 팀원 소개
 |Frontend|Frontend & Backend|Backend|Backend|
 |:-:|:-:|:-:|:-:|
@@ -51,6 +71,21 @@
 |강지연|나예빈|박주희|임지현|
 |[@KANGJIYEON2](https://github.com/KANGJIYEON2)|[@yebrong](https://github.com/yebrong)|[@aprilnineteen](https://github.com/aprilnineteen)|[@Jiihyun](https://github.com/Jiihyun)|
 
+
+## 역할 분담
+
+  #### 강지연 (Frontend)
+  - 
+
+  #### 나예빈 (Frontend & Backend)
+  - 
+
+  #### 🐾 박주희 (Backend)
+  - AWS를 통한 관계형 데이터베이스 설계 및 관리
+  - JWT 토큰 및 사용자 인증 / 회원가입 기능
+
+  #### 임지현 (Backend)
+  - 
 
 
 ## 배포 주소
