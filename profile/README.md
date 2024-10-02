@@ -20,17 +20,20 @@
 또한, 유저가 원한다면 **작성한 일기를 커뮤니티에서 다른 유저들과 공유하고 소통하며 공감대를 형성**할 수 있는 기회도 제공합니다.
 
 #### 💡 프로젝트 개발 기간
-**전체 개발 기간**: 2024.07 - 2024.09
-**기획**: 2024.07 - 2024.08
+**전체 개발 기간**: 2024.07 - 2024.09 <br>
+**기획**: 2024.07 - 2024.08 <br>
 **기능 구현**: 2024.08 - 2024.09
 
 ## 주요 기능 소개
 
 ## 기술 스택 및 인프라 구조
 #### 🛠️ Collaboration
+![Collaboration](https://github.com/user-attachments/assets/da4df5c5-eaaa-4945-903b-06202aa325c8)
 
 
 #### 🛠️ Version / Issue
+![version](https://github.com/user-attachments/assets/3e765b80-33c0-447e-ac57-ea87ef460cbf)
+
 
 #### 🛠️ Frontend
 ![frontendsize](https://github.com/user-attachments/assets/a9032c3e-571b-470b-b2ea-914c614242be)
@@ -38,7 +41,7 @@
 
 
 #### 🛠️ Backend
-
+![backend](https://github.com/user-attachments/assets/d6197808-6b3f-45a4-a0fc-cad12c8f4a43)
 
 
 ## 팀원 소개
