@@ -6,9 +6,11 @@
 </div>
 
 ## 프로젝트 소개
-### "감정을 기록한 일기, 음양오행으로 분석해 내일의 조화를 이끌다!"
-구르미 그린 일기는 입력하신 **5가지 감정 수치**와 **작성하신 일기**를 **AI로 분석**하여,<br>
+ > ### "감정을 기록한 일기, 음양오행으로 분석해 내일의 조화를 이끌다!"
+ > 구르미 그린 일기는 입력하신 **5가지 감정 수치**와 **작성하신 일기**를 **AI로 분석**하여,<br>
 음양오행에 맞는 **감정분석 결과와 및 조화로운 내일을 보낼 수 있는 팁**을 제공하고 있어요 :)
+
+<br>
 
 #### 💡 프로젝트 시작 배경
 현대사회는 감정을 드러내고 마주하는 것에 대해 점점 더 조심스러워지는 경향이 있습니다.<br>
@@ -46,21 +48,16 @@
 ### 기술 스택
 
 #### 🛠️ Collaboration
-![Collaboration](https://github.com/user-attachments/assets/da4df5c5-eaaa-4945-903b-06202aa325c8)
-
+<img src="https://github.com/user-attachments/assets/da4df5c5-eaaa-4945-903b-06202aa325c8" width="800" />
 
 #### 🛠️ Version / Issue
-![version](https://github.com/user-attachments/assets/3e765b80-33c0-447e-ac57-ea87ef460cbf)
-
+<img src="https://github.com/user-attachments/assets/3e765b80-33c0-447e-ac57-ea87ef460cbf" width="800" />
 
 #### 🛠️ Frontend
-![frontendsize](https://github.com/user-attachments/assets/a9032c3e-571b-470b-b2ea-914c614242be)
-
-
+<img src="https://github.com/user-attachments/assets/a9032c3e-571b-470b-b2ea-914c614242be" width="800" />
 
 #### 🛠️ Backend
-![backend](https://github.com/user-attachments/assets/d6197808-6b3f-45a4-a0fc-cad12c8f4a43)
-
+<img src="https://github.com/user-attachments/assets/d6197808-6b3f-45a4-a0fc-cad12c8f4a43" width="800" />
 
 ### 인프라 구조
 
