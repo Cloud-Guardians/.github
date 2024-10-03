@@ -16,6 +16,7 @@
 ## 프로젝트 소개
 ![KakaoTalk_20241003_203722553](https://github.com/user-attachments/assets/6e59bfc9-2035-419f-99d0-1d53859ed11d)
 
+앱 데모영상 https://www.youtube.com/watch?v=U4E2CA4fadM
 
  > ### "감정을 기록한 일기, 음양오행으로 분석해 내일의 조화를 이끌다!"
  > 구르미 그린 일기는 입력하신 **5가지 감정 수치**와 **작성하신 일기**를 **AI로 분석**하여,<br>
